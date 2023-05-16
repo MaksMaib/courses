@@ -1,9 +1,9 @@
 # courses
 
-##Computer vision
+## Computer vision
 [stepik: SUMSUNG computer vision](https://stepik.org/course/50352/promo)
 
-##NLP
+## NLP
 [stepik: SUMSUNG NLp](https://stepik.org/course/54098/promo)
  
 ## LLM
