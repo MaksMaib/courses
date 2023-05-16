@@ -1,2 +1,4 @@
 # courses
-I want create collection of courses for me and my friend (ML/DL/LLM)
+
+## LLM
+Andrej Karpathy Link(https://www.youtube.com/watch?v=kCc8FmEb1nY)
